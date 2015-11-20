@@ -48,6 +48,7 @@ public class BDDprograma {
                     }
                     break;
                 }
+                //LELELELELEL
                 case 2:{
                     System.out.println("Ingrese nombre a buscar:");
                     String nombre=in.nextLine();
